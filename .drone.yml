@@ -11,5 +11,5 @@ steps:
       - flake8
 when:
   repo:
-    include:
+    exclude:
     - Conditionsdocker / conditions
